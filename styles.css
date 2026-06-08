@@ -1,0 +1,16 @@
+@font-face {
+    font-family: "Diner";
+    src: url("Diner-Regular.ttf");
+}
+
+body {
+    background: #fdf8f0;
+    font-family: "CATLinz_1.8";
+}
+
+/* nn RESPONSIVE — MOBILE nn */ @media (max-width: 768px) { /* Stack nav links vertically */
+#main-header .container { flex-direction: column; gap: 12px; text-align: center; } nav a {
+margin-left: 12px; margin-right: 12px; } /* Smaller hero text */ #hero { padding: 50px 0; } #hero
+h1 { font-size: 26px; } .tagline { font-size: 15px; } /* Stack cards vertically */ .cards {
+flex-direction: column; } /* Full width cards */ .card { min-width: unset; width: 100%; } /*
+Smaller section headings */ section h2 { font-size: 22px; } } 
