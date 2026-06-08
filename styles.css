@@ -4,7 +4,8 @@
 }
 
 body {
-    background: #fdf8f0; 
+    background: #fdf8f0;
+    font-family: "CATLinz_1.8.ttf", sans-serif; 
 }
 
 /* nn RESPONSIVE — MOBILE nn */ @media (max-width: 768px) { /* Stack nav links vertically */
