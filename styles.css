@@ -18,3 +18,6 @@ Smaller section headings */ section h2 { font-size: 22px; } }
 h1 {
     font-family: "diner.regular.ttf", san-serif;
 }
+h2 {
+    font-family: "diner.regular.ttf", san-serif;
+}
