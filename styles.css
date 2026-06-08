@@ -1,6 +1,6 @@
 @font-face {
     font-family: "Diner";
-    src: url("Diner-Regular.ttf");
+    src: url("diner.regular.ttf");
 }
 
 body {
@@ -15,5 +15,5 @@ flex-direction: column; } /* Full width cards */ .card { min-width: unset; width
 Smaller section headings */ section h2 { font-size: 22px; } } 
 
 h1 {
-    font-family: "Diner-Regular.ttf", san-serif;
+    font-family: "diner.regular.ttf", san-serif;
 }
