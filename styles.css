@@ -1,6 +1,6 @@
 @font-face {
-    font-family: "Diner";
-    src: url("diner.regular.ttf");
+    font-family: "OstrichSansMedium.ttf";
+    src: url("ostrich.sans.sans.rounded.medium.ttf");
 }
 
 body {
@@ -16,11 +16,11 @@ flex-direction: column; } /* Full width cards */ .card { min-width: unset; width
 Smaller section headings */ section h2 { font-size: 22px; } } 
 
 h1 {
-    font-family: "diner.regular.ttf", san-serif;
+    font-family: "OstrichSansMedium.ttf", san-serif;
 }
 h2 {
-    font-family: "diner.regular.ttf", san-serif;
+    font-family: "OstrichSansMedium.ttf", san-serif;
 }
 title {
-    font-family: "diner.regular.ttf", san-serif;
+    font-family: "OstrichSansMedium.ttf", san-serif;
 }
