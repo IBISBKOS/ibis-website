@@ -5,7 +5,7 @@
 
 body {
     background: #fdf8f0;
-    font-family: "CATLinz_1.8";
+    font-family: "CATLinz_1.8", san-serif;  
 }
 
 /* nn RESPONSIVE — MOBILE nn */ @media (max-width: 768px) { /* Stack nav links vertically */
@@ -15,5 +15,6 @@ h1 { font-size: 26px; } .tagline { font-size: 15px; } /* Stack cards vertically 
 flex-direction: column; } /* Full width cards */ .card { min-width: unset; width: 100%; } /*
 Smaller section headings */ section h2 { font-size: 22px; } } 
 
-h1 {font-family: "Diner-Regular.ttf";
+h1 {
+    font-family: "Diner-Regular.ttf", san-serif;
 }
