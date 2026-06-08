@@ -14,3 +14,5 @@ margin-left: 12px; margin-right: 12px; } /* Smaller hero text */ #hero { padding
 h1 { font-size: 26px; } .tagline { font-size: 15px; } /* Stack cards vertically */ .cards {
 flex-direction: column; } /* Full width cards */ .card { min-width: unset; width: 100%; } /*
 Smaller section headings */ section h2 { font-size: 22px; } } 
+
+h1 {font-family: "Diner-Regular.ttf"}
