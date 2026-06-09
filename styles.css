@@ -17,7 +17,7 @@ flex-direction: column; } /* Full width cards */ .card { min-width: unset; width
 Smaller section headings */ section h2 { font-size: 22px; } } 
 
 h1 {
-   sfont-family: "Ostrich", san-serif;
+   font-family: "Ostrich", san-serif;
 }
 h2 {
     font-family: "Ostrich", san-serif;
