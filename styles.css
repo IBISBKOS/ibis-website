@@ -1,16 +1,13 @@
 @font-face {
     font-family: "OstrichSansMedium.ttf";
-    src: url("ostrich.sans.sans.rounded.medium.ttf");
+    src: url("ostrich-sans.sans-rounded-medium.ttf");
 }
 
 body {
-    background: #fdf8f0;
+    background: #f7f4ed;
+    font-family: "CATLinz_1.8.ttf", san-serif;
 }
-p {
-    font-family: "OstrichSansMedium.ttf", san-serif;
-    color: #333;
-    line-height: 1.6;
-}
+
 
 /* nn RESPONSIVE — MOBILE nn */ @media (max-width: 768px) { /* Stack nav links vertically */
 #main-header .container { flex-direction: column; gap: 12px; text-align: center; } nav a {
@@ -20,11 +17,11 @@ flex-direction: column; } /* Full width cards */ .card { min-width: unset; width
 Smaller section headings */ section h2 { font-size: 22px; } } 
 
 h1 {
-    font-family: "OstrichSansMedium.ttf", san-serif;
+    font-family: ""ostrich-sans.sans-rounded-medium.ttf"", san-serif;
 }
 h2 {
-    font-family: "OstrichSansMedium.ttf", san-serif;
+    font-family: ""ostrich-sans.sans-rounded-medium.ttf"", san-serif;
 }
 title {
-    font-family: "OstrichSansMedium.ttf", san-serif;
+    font-family: ""ostrich-sans.sans-rounded-medium.ttf"", san-serif;
 }
