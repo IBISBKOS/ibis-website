@@ -5,7 +5,11 @@
 
 body {
     background: #fdf8f0;
-    font-family: "CATLinz_1.8.ttf", sans-serif; 
+}
+p {
+    font-family: "OstrichSansMedium.ttf", san-serif;
+    color: #333;
+    line-height: 1.6;
 }
 
 /* nn RESPONSIVE — MOBILE nn */ @media (max-width: 768px) { /* Stack nav links vertically */
