@@ -16,12 +16,3 @@ h1 { font-size: 26px; } .tagline { font-size: 15px; } /* Stack cards vertically 
 flex-direction: column; } /* Full width cards */ .card { min-width: unset; width: 100%; } /*
 Smaller section headings */ section h2 { font-size: 22px; } } 
 
-h1 {
-    font-family: ""ostrich-sans.sans-rounded-medium.ttf"", san-serif;
-}
-h2 {
-    font-family: ""ostrich-sans.sans-rounded-medium.ttf"", san-serif;
-}
-title {
-    font-family: ""ostrich-sans.sans-rounded-medium.ttf"", san-serif;
-}
