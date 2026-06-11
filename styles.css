@@ -2,6 +2,10 @@
     font-family: "Ostrich";
     src: url("ostrich-sans.sans-rounded-medium.ttf");
 }
+@font-face {
+    font-family: "Cats";
+    src: url("CATLinz_1.8.ttf);
+}
 
 body {
     background: #F7F4ED;
